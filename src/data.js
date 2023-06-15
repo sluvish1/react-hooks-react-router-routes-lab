@@ -2,7 +2,7 @@ const movies = [
   {
     title: "Doctor Strange",
     time: 115,
-    genres: ["Action", "Adventure", "Fantasy"],
+    genres: ["Action", "Adventure", "Fantasy", "Comdey"],
   },
   {
     title: "Trolls",
